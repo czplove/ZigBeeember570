@@ -1,0 +1,15 @@
+
+/** @brief Data Ready
+ *
+ * This function is called when the temperature sensor hardware has new data
+ * available.
+ *
+ * @param temperatureMilliC The temperature in milli degrees Celsius  Ver.: always
+ * @param readStatus True if the value was read succesfully, false if an error
+ * occurred  Ver.: always
+ */
+void emberAfPluginTemperatureSi7053DataReadyCallback(int32_t temperatureMilliC,
+                                                     bool readStatus)
+{
+
+}

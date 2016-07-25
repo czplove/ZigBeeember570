@@ -1,0 +1,26 @@
+var group__serial__comm =
+[
+    [ "emberSerialInit", "group__serial__comm.htm#ga34b433d5bc028d584f8b77a9e24b5571", null ],
+    [ "emberSerialReadAvailable", "group__serial__comm.htm#gaaecf02be97a3d08d0c19c9420d0a35bd", null ],
+    [ "emberSerialReadByte", "group__serial__comm.htm#gaa6c47ba1de1015a7b30959a3c3163ab0", null ],
+    [ "emberSerialReadData", "group__serial__comm.htm#ga37f0f389377d7f53714835750c763bf4", null ],
+    [ "emberSerialReadDataTimeout", "group__serial__comm.htm#gac23d09cb1c4b76030a873f22601c141c", null ],
+    [ "emberSerialReadLine", "group__serial__comm.htm#ga956cccc98a61334ccc178a8242093767", null ],
+    [ "emberSerialReadPartialLine", "group__serial__comm.htm#ga0458ca411c8ea7f5ca00807421406080", null ],
+    [ "emberSerialWriteAvailable", "group__serial__comm.htm#gace715d88d33c8b9fb14b809b6b363213", null ],
+    [ "emberSerialWriteUsed", "group__serial__comm.htm#ga5c8579119b8f0b717373df075ad08669", null ],
+    [ "emberSerialWriteByte", "group__serial__comm.htm#gadcee0891338d844889f8890e3b91b533", null ],
+    [ "emberSerialWriteHex", "group__serial__comm.htm#ga86c272c8d47fa301728e6e35962b64da", null ],
+    [ "emberSerialWriteString", "group__serial__comm.htm#ga210c9ed48648ec2ed7ae605637f99c31", null ],
+    [ "emberSerialPrintf", "group__serial__comm.htm#gaf49fc3ca066e29748d4d0fdc7df534e6", null ],
+    [ "emberSerialPrintfLine", "group__serial__comm.htm#ga570ed4076199ff779d545cd34542ba4c", null ],
+    [ "emberSerialPrintCarriageReturn", "group__serial__comm.htm#gac6fd5bc5e84cde0fae179b2de83c4d41", null ],
+    [ "emberSerialPrintfVarArg", "group__serial__comm.htm#gab68464c024b5fa28d233d02e69dd5b5f", null ],
+    [ "emberSerialWriteData", "group__serial__comm.htm#ga20bafa011c32d634e415170bfa7dd8ac", null ],
+    [ "emberSerialWriteBuffer", "group__serial__comm.htm#gaceea408da2aaa63569d885c06310a73a", null ],
+    [ "emberSerialWaitSend", "group__serial__comm.htm#gad9806223fd8a45daa3abbedfae05ce74", null ],
+    [ "emberSerialGuaranteedPrintf", "group__serial__comm.htm#ga97b3a360e2d0f719ecfd6ba70633023a", null ],
+    [ "emberSerialBufferTick", "group__serial__comm.htm#gaf721671bb351885fbc42f7af0115bd34", null ],
+    [ "emberSerialFlushRx", "group__serial__comm.htm#gab66c4a051fbbae3a938d8e01f408e5a5", null ],
+    [ "emberSerialUnused", "group__serial__comm.htm#ga88dbef18c629159086e94f6c94999470", null ]
+];
